@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Information Security - Video Script](https://blog.florxlabs.com/introduction-to-information-security)
+- [Be rid of database passwords!](https://blog.florxlabs.com/dynamic-secrets)
+- [Shut DEV down... at night?](https://blog.florxlabs.com/shut-dev-down-at-night)
+- [An obsessive commitment to automation](https://blog.florxlabs.com/an-obsessive-commitment-to-automation)
+- [You’re using the word DevOps badly](https://blog.florxlabs.com/youre-using-the-word-devops-badly)
 <!-- BLOG-POST-LIST:END -->
