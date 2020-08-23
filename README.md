@@ -6,15 +6,16 @@ I take great pride in clearing the runway for teams to run fast, innovate, chang
 
 Finally, I create environments where it’s safe for individuals and teams to make mistakes. I believe that this type of learning is invaluable for growth. 
 
-## Where to find me:
+### Where to find me
 
 [<img align="left" alt="florxlabs.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="florx | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="florx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="florx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
-## Stuff I've written
+### Stuff I've written
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Information Security - Video Script](https://blog.florxlabs.com/introduction-to-information-security)
 - [Be rid of database passwords!](https://blog.florxlabs.com/dynamic-secrets)
@@ -22,7 +23,7 @@ Finally, I create environments where it’s safe for individuals and teams to ma
 - [An obsessive commitment to automation](https://blog.florxlabs.com/an-obsessive-commitment-to-automation)
 - [You’re using the word DevOps badly](https://blog.florxlabs.com/youre-using-the-word-devops-badly)
 <!-- BLOG-POST-LIST:END -->
-🤓 [more blog posts...](https://blog.florxlabs.com)
+➡️ [more blog posts...](https://blog.florxlabs.com)
 
 
 [website]: https://florxlabs.com
