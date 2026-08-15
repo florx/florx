@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Obsessed with automation, security and a test-first approach to engineering, I empower teams to deliver projects on time and budget whilst maintaining quality - working directly with senior stakeholders to improve and direct strategy. I love to focus on products over projects, ensuring the end-user gets an excellent experience. (I’ve written a lot about this: https://blog.florxlabs.com/an-obsessive-commitment-to-automation)
+Obsessed with automation, security and a test-first approach to engineering, I empower teams to deliver projects on time and budget whilst maintaining quality - working directly with senior stakeholders to improve and direct strategy. I love to focus on products over projects, ensuring the end-user gets an excellent experience. (I’ve written a lot about this: https://florxlabs.com/blog/an-obsessive-commitment-to-automation)
 
 I take great pride in clearing the runway for teams to run fast, innovate, change and implement improvements. I’m always breaking down silos and encouraging open and transparent communications across all areas of business.
 
@@ -16,13 +16,13 @@ Finally, I create environments where it’s safe for individuals and teams to ma
 
 ### Stuff I've written
 <!-- BLOG-POST-LIST:START -->
-- [How to have multiple SSH keys whilst using the 1Password Agent](https://blog.florxlabs.com/how-to-have-multiple-ssh-keys-whilst-using-the-1password-agent)
-- [AWS Managed Prometheus and Grafana](https://blog.florxlabs.com/aws-managed-prometheus-and-grafana)
-- [Introduction to Information Security - Video Script](https://blog.florxlabs.com/introduction-to-information-security)
-- [Be rid of database passwords!](https://blog.florxlabs.com/dynamic-secrets)
-- [Shut DEV down... at night?](https://blog.florxlabs.com/shut-dev-down-at-night)
+- [Auditing every domain I own](https://florxlabs.com/blog/auditing-every-domain-i-own)
+- [How to have multiple SSH keys whilst using the 1Password Agent](https://florxlabs.com/blog/how-to-have-multiple-ssh-keys-whilst-using-the-1password-agent)
+- [AWS Managed Prometheus and Grafana](https://florxlabs.com/blog/aws-managed-prometheus-and-grafana)
+- [Introduction to Information Security - Video Script](https://florxlabs.com/blog/introduction-to-information-security)
+- [Be rid of database passwords!](https://florxlabs.com/blog/dynamic-secrets)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://blog.florxlabs.com)
+➡️ [more blog posts...](https://florxlabs.com/blog)
 
 
 [website]: https://florxlabs.com

@@ -1,0 +1,48 @@
+name: Sync blog posts into the README
+
+# Three ways in, deliberately:
+#
+#   repository_dispatch  the blog repo pings this after a post goes live. This is the one
+#                        that does the work - the README updates within a minute of publish.
+#   schedule             a safety net for a missed or unconfigured dispatch. Note that
+#                        GitHub disables scheduled workflows after 60 days without repo
+#                        activity, so treat this as a backstop, not the mechanism.
+#   workflow_dispatch    a button, for when you want it now.
+on:
+  repository_dispatch:
+    types: [blog-published]
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-blog-posts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Update the README from the blog feed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Rewrite the post list
+        run: node .github/scripts/sync-blog-posts.mjs
+
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update the latest blog posts in the README' -- README.md
+          git push
