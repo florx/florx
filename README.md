@@ -16,11 +16,11 @@ Finally, I create environments where it’s safe for individuals and teams to ma
 
 ### Stuff I've written
 <!-- BLOG-POST-LIST:START -->
+- [Zero to development of an idea, ten years on](https://florxlabs.com/blog/zero-to-development-of-an-idea-ten-years-on)
 - [Auditing every domain I own](https://florxlabs.com/blog/auditing-every-domain-i-own)
 - [How to have multiple SSH keys whilst using the 1Password Agent](https://florxlabs.com/blog/how-to-have-multiple-ssh-keys-whilst-using-the-1password-agent)
 - [AWS Managed Prometheus and Grafana](https://florxlabs.com/blog/aws-managed-prometheus-and-grafana)
 - [Introduction to Information Security - Video Script](https://florxlabs.com/blog/introduction-to-information-security)
-- [Be rid of database passwords!](https://florxlabs.com/blog/dynamic-secrets)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://florxlabs.com/blog)
 
